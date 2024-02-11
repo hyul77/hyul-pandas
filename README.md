@@ -8,7 +8,7 @@
 #### [서울 평균 기온](https://github.com/hyul77/hyul-pandas/blob/main/%EC%84%9C%EC%9A%B8%20%ED%8F%89%EA%B7%A0%20%EA%B8%B0%EC%98%A8/model/EDA%EB%A7%8C.ipynb)
 #### [고객 대출등급 분류 해커톤](https://github.com/hyul77/hyul-pandas/blob/main/%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4/hyul_EDA.ipynb)
 #### [대학 대항전 : 퍼즐 이미지 AI 경진대회](https://github.com/hyul77/hyul-pandas/blob/main/%EB%8C%80%ED%95%99%20%EB%8C%80%ED%95%AD%EC%A0%84%20%ED%8D%BC%EC%A6%90%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/puzzle.ipynb)
-#### [도배 하자 질의 응답 처리 : 한솔데코 시즌2 AI 경진대회]
+#### [도배 하자 질의 응답 처리 : 한솔데코 시즌2 AI 경진대회](https://github.com/hyul77/hyul-pandas/blob/main/%EB%8F%84%EB%B0%B0%20%ED%95%98%EC%9E%90%20%EC%A7%88%EC%9D%98%20%EC%9D%91%EB%8B%B5%20%EC%B2%98%EB%A6%AC%20%ED%95%9C%EC%86%94%EB%8D%B0%EC%BD%94%20%EC%8B%9C%EC%A6%8C2%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/hyul_star.ipynb)
 
 
 ## 🛠 회고록 & 공부
