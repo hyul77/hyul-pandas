@@ -40,7 +40,6 @@
 
 ## 📒 기술 스택
 - Vison Transformer
-- 
 - XGBoost
 - Light GBM
 - Catboost
