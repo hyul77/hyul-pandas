@@ -11,7 +11,7 @@
  
 ![image](https://github.com/hyul77/hyul77/assets/100561170/14a7af98-719d-4d33-b132-0be3ebe394d2)
 
-## 학습
+## 학습 빅데이터
 ## 📒설명
 - DACON 경진대회 나간 기록들
 - ML / Vision AI
