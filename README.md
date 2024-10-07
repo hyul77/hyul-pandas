@@ -54,6 +54,7 @@
 #### [제1회 국민대학교 AI빅데이터 분석 경진대회 구조 공부](https://hyul-code.tistory.com/35)
 #### [제1회 국민대학교 AI빅데이터 분석 경진대회 회고록](https://hyul-code.tistory.com/38)
 #### [제주 특산물 가격 예측 AI 경진대회](https://hyul-code.tistory.com/43)
+#### [대구경진대회]
 
 
 
